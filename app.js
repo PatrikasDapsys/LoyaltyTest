@@ -1,4 +1,4 @@
-function arNidasLoyal(status) {j
+function arNidasLoyal(status) {
     if (status === "taip") {
         document.querySelector(".answer").innerHTML = "Nemeluok! Nidas Jankauskas niekada nėra loyal.";
     }
